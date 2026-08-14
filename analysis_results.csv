@@ -1,0 +1,16 @@
+Parameter,Mean,Min,Max,Std,Unit
+Sample Rate,200000.000,,,,Sa/s
+Low Level,0.006,,,,V
+High Level,3.309,,,,V
+,,,,,
+Period,1.000,0.997,1.002,0.002,ms
+,,,,,
+Frequency,1000.223,997.865,1002.823,1.697,Hz
+,,,,,
+Pulse Width,0.402,0.398,0.408,0.003,ms
+,,,,,
+Duty Cycle,40.257,39.874,40.675,0.258,%
+,,,,,
+Rise Time,20.424,20.154,20.844,0.178,us
+,,,,,
+Fall Time,24.359,23.863,24.817,0.224,us
