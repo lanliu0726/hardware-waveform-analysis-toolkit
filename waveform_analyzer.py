@@ -72,7 +72,7 @@ def calculate_waveform_parameters(rising_times, falling_times):
             (falling_times < next_rising)] #找到当前rising和下一个rising之间的falling
         
         if len(valid_falling) != 1:
-            continue #对于单pwm，一个周期内只有一个faling，不符合则跳过
+            continue #对于单pwm，一个周期内只有一个falling，不符合则跳过
 
         falling = valid_falling[0] #将array的数提取出来
 
