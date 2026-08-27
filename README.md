@@ -1,6 +1,6 @@
 # Hardware Waveform Analysis Toolkit
 
-This is a small Python project for analysing periodic PWM waveform data from CSV files.
+A Python toolkit for analysing periodic PWM waveform data from CSV files.
 
 The program reads time-voltage data, detects waveform edges, calculates common timing parameters, and saves the results as a plot and a CSV file.
 
