@@ -2,7 +2,7 @@
 
 This is a small Python project for analysing periodic PWM waveform data from CSV files.
 
-I built it while learning Python for hardware-related data processing. The program reads time-voltage data, detects waveform edges, calculates common timing parameters, and saves the results as a plot and a CSV file.
+The program reads time-voltage data, detects waveform edges, calculates common timing parameters, and saves the results as a plot and a CSV file.
 
 ## What it does
 
